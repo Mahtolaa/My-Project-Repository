@@ -9,8 +9,8 @@ Installation Instructions
 2.	Install the required packages (libraries)
 Usage Instructions
 1.	Open the Notebooks:
-o	To work with Dataset A, open Mariam prediction 2.ipynb.
-o	To work with Dataset B, open My Project Notebook.ipynb.
+o	To work with Dataset A (EPL Dataset), open My Project Notebook.ipynb.
+o	To work with Dataset B (football_matches_dataset), open My Project Notebook 2.ipynb.
 2.	Run the Cells: Execute the cells sequentially to preprocess the data, select the most relevant features, train the models, and evaluate the performance.
 3.	Experimentation: the EDA, feature selection methods, models, or parameters can be adjusted to explore different outcomes and refine the predictions.
    
