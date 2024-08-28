@@ -7,10 +7,10 @@ This repository focuses on predicting the outcomes of English Premier League (EP
 Installation Instructions
 1.	Set up Jupyter Notebook or any Python IDE to run the .ipynb files.
 2.	Install the required packages (libraries)
+   
 Usage Instructions
 1.	Open the Notebooks:
-o	To work with Dataset A (EPL Dataset), open My Project Notebook.ipynb.
-o	To work with Dataset B (football_matches_dataset), open My Project Notebook 2.ipynb.
+To work with Dataset A (EPL Dataset), open My Project Notebook.ipynb. To work with Dataset B (football_matches_dataset), open My Project Notebook 2.ipynb.
 2.	Run the Cells: Execute the cells sequentially to preprocess the data, select the most relevant features, train the models, and evaluate the performance.
 3.	Experimentation: the EDA, feature selection methods, models, or parameters can be adjusted to explore different outcomes and refine the predictions.
    
